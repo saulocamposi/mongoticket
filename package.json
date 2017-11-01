@@ -1,0 +1,25 @@
+{
+  "name": "mongoticket",
+  "version": "1.0.0",
+  "description": "API tickets on mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies" : {
+    "log4js": "^0.6.31",
+    "mongodb": ""
+  },
+  "devDependencies" : {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "chai-http": "^2.0.1",
+    "mocha": "^2.4.5",
+    "mockery": "^1.4.0",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0",
+    "sqlite3": "^3.1.1"
+  }
+}
