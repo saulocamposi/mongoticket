@@ -1,0 +1,18 @@
+{
+  "development": {
+    "application": {
+      "name": "mongoticket",
+      "mongoServer" : "mongoticket",
+      "mongoUser" : "mongoticket",
+      "mongoPassword": "mongoticket"
+    }
+  },
+  "test": {
+    "application": {
+      "name": "mongoticket",
+      "mongoServer" : "mongoticket",
+      "mongoUser" : "mongoticket",
+      "mongoPassword": "mongoticket"
+    }
+  }
+}
